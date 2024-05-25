@@ -91,5 +91,5 @@ The analysis demonstrates that 'Model Year' significantly impacts the electric r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/electric-vehicle-range-analysis.git
+   git https://github.com/Maryam-Ajaz/Electric-Vehicle-Range-Analysis-Using-Machine-Learning-Techniques/tree/main
    cd electric-vehicle-range-analysis
